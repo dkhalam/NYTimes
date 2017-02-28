@@ -1,2 +1,2 @@
-# NewYorkTimes
+# NYTimes
 # Article Search Under Construction!
